@@ -1,0 +1,10 @@
+C:\Users\Егор\source\repos\dem gen\dem gen\obj\Debug\dem gen.csprojAssemblyReference.cache
+C:\Users\Егор\source\repos\dem gen\dem gen\obj\Debug\dem_gen.Form1.resources
+C:\Users\Егор\source\repos\dem gen\dem gen\obj\Debug\dem_gen.Properties.Resources.resources
+C:\Users\Егор\source\repos\dem gen\dem gen\obj\Debug\dem gen.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\dem gen\dem gen\obj\Debug\dem gen.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\dem gen\dem gen\bin\Debug\dem gen.exe.config
+C:\Users\Егор\source\repos\dem gen\dem gen\bin\Debug\dem gen.exe
+C:\Users\Егор\source\repos\dem gen\dem gen\bin\Debug\dem gen.pdb
+C:\Users\Егор\source\repos\dem gen\dem gen\obj\Debug\dem gen.exe
+C:\Users\Егор\source\repos\dem gen\dem gen\obj\Debug\dem gen.pdb
